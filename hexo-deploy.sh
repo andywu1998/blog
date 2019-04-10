@@ -1,4 +1,4 @@
-commit=`date "%D"`
+commit=`date "+%D"`
 cd /Users/wuliwei/blog
 hexo g
 hexo d
